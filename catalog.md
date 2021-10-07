@@ -216,7 +216,9 @@ Video games are one of the newest forms of media, and offer tremendous promise f
 
 Prerequisites: COMP 131
 
-## COMP 295: Computing in Real Life Internship
+## COMP 295: Topics in Computer Science
+
+__Computing in Real Life Internship__
 
 Students will work with LA-based non-profits such as STEAM:CODERS, a Pasadena-based organization that teaches local middle and high school students to program, or the Association for Women in Mathematics, a national organization that promotes women in computation. Students will complete weekly reflection papers and a final presentation describing what they've learned about computation IRL.
 
@@ -239,6 +241,14 @@ The key to the animation and videogame industries is the ability to display simu
 Sub-field: INTERFACES
 
 Prerequisites: COMP 229
+
+## COMP 317: Algorithms Analysis
+
+We study algorithms from the point of view of efficiency and complexity. Having studied data structures, we now see how to apply algorithms to these structures to optimize their effectiveness. We examine algorithms in terms of time and memory allocation considerations. We will apply this background to a subset of the most important algorithms used in the sciences, various media, and business. We will study effective algorithm design, and give a brief introduction to computational complexity and computability, as well as parallel processing. Selected topics and applications from graph theory, linear algebra, numerical analysis, data compression, encryption, and large-scale problems from Mathematics and the sciences.
+
+Sub-field: THEORY
+
+Prerequisites: COMP 229 and either COMP 149 or MATH 210 
 
 ## COMP 319: Knowledge Representation and Reasoning
 
@@ -333,6 +343,14 @@ The largest programming projects are completed by multiple computer scientists w
 Sub-field: SYSTEMS
 
 Prerequisites: COMP 127 or COMP 131
+
+## COMP 371: Mobile Apps
+
+Smartphone apps, in their limited computational power and radically different form factor, impose new constraints and challenges different from the development of other software. In this class, students will be introduced to mobile architecture and related concepts such as monetization, privacy, analytics, and cross-platform development.
+
+Sub-field: INTERFACES
+
+Prerequisites: COMP 131 and COMP 229, or permission of instructor 
 
 ## COMP 373: Databases
 
