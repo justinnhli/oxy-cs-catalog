@@ -8,11 +8,12 @@ Students must have completed COMP 131 before they declare the major, and are str
 
 ## Major Requirements
 
-Computer science is a broad field, encompassing topics from digital logic and advanced mathematical theory to video games and data science. At the same time, these foundations and applications require fundamental knowledge of how a computer works, as well as the ability to translate processes into working programs. The Computer Science major coursework mirrors this structure. A student majoring in Computer Science must take a minimum of 12 courses (48 units).
+Computer science is a broad field, encompassing topics from digital logic and advanced mathematical theory to video games and data science. At the same time, these foundations and applications require fundamental knowledge of how a computer works, as well as the ability to translate processes into working programs. The Computer Science major coursework mirrors this structure. A student majoring in Computer Science must take a minimum of 13 courses (50 units).
 
 ### Required Courses
 
 <table>
+<tr>  <td>COMP 101</td>  <td>Justice and Equity in Technology</td>              <td>2 units</td>  </tr>
 <tr>  <td>COMP 131</td>  <td>Fundamentals of Computer Science</td>              <td>4 units</td>  </tr>
 <tr>  <td>COMP 229</td>  <td>Data Structures</td>                               <td>4 units</td>  </tr>
 <tr>  <td>COMP 149</td>  <td>Mathematical Foundations of Computer Science</td>  <td>4 units</td>  </tr>
@@ -128,7 +129,7 @@ Students who earned a score of 4 or 5 on the AP Statistics examination will earn
 
 The Computer Science Department policy on transfer credit conforms to College policy. Students should reference the Transfer Credit section for details. Online courses are allowed for transfer credit. A score of 4 or 5 on the AP Computer Science examination is equivalent to COMP 131, and places a student into COMP 229 (Data Structures).
 
-For students who have taken the AP Computer Science Principles examination, who have taken IB or A-Level examinations in Computer Science, who have transfer credit, or are in similar situations, the department will evaluate each student's situation individually. To aid in the evaluation, students should complete the guided placement programming assignment found at <https://www.oxy.edu/academics/areas-study/computer-science/self-guided-assessment-quiz>. A typical student should be able to complete the assignment in under two hours. In general, to place out of COMP 131, a student should be proficient in variables, branches (if, else), loops (for, while), functions (parameters, scope, return versus print), and object-oriented programming (classes versus instances, constructors, passing familiarity with inheritance). All other students should begin with COMP 131 as soon as possible.
+For students who have taken the AP Computer Science Principles examination, who have taken IB or A-Level examinations in Computer Science, who have transfer credit, or are in similar situations, the department will evaluate each student's situation individually. To aid in the evaluation, students should complete the guided placement programming assignment found at <https://www.oxy.edu/academics/areas-study/computer-science/cs-self-placement>. A typical student should be able to complete the assignment in under two hours. In general, to place out of COMP 131, a student should be proficient in variables, branches (if, else), loops (for, while), functions (parameters, scope, return versus print), and object-oriented programming (classes versus instances, constructors, passing familiarity with inheritance). All other students should begin with COMP 131 as soon as possible.
 
 Students receiving a 4 or 5 on the AP Statistics Examination are exempt from COMP 146; MATH 150 is recommended for these students wanting to take further statistics courses.
 
@@ -154,31 +155,19 @@ Comprehensive study of measures of central tendency, variation, probability, the
 
 This course provides the mathematical theory which underpins Computer Science, including: number systems; variable types and formats; logic; set theory; graph theory; linear algebra; and important numbers, functions, and relations.
 
-## COMP 155: Web Design and Programming
-
-Principles of web design. Tools and techniques of elementary web programming, including: HTML, XHTML, CSS, JavaScript, HTTP, SSL, XML, and SQL. Introduction to network architecture and programming.
-
-## COMP 157: Programming in C++
-
-Programming in C++, including: procedures; functions; control structures; files; structs; and elementary uses of pointers, objects, and classes. Does not assume any prior knowledge of C. Course offered in alternate years. Not offered every year. Not open to students who have taken, or are taking, COMP 161.
-
 ## COMP 165: Mathematica
 
 Introduction to using Mathematica for mathematical calculation and programming.
 
 Prerequisites: Prior programming experience in any language OR any of the following Math courses: MATH 109, MATH 110, MATH 114, MATH 120, MATH 128, MATH 210, MATH 212, or MATH 214
 
-## COMP 167: MATLAB
-
-Introduction to MATLAB for scientific computation and programming, including: scripts and functions, control structures, arrays and cell arrays, logical indexing, and vectorizing algorithms. Introduction to object-oriented programming. Course offered in alternate years.
-
-Prerequisites: One 100-level Science or Mathematics course; or permission of instructor
-
 ## COMP 181: Advanced Programming
 
 In this course, students will gain additional experience in object-oriented programming in Java. Students will work in pairs and small groups on multiple programming projects. Topics will include test-driven development, debugging, and source code management, but focus will be on writing maintainable and efficient code. This course is intended to prepare students with some programming experience (COMP 131 or equivalent) for more advanced programming courses.
 
-Prerequisites: COMP 131 or equivalent, or by instructor permission
+FIXME something about self-placement
+
+Prerequisites: COMP 131
 
 ## COMP 197: Independent Study
 
@@ -188,17 +177,21 @@ Directed individual study. Permission of instructor and department chair require
 
 We begin with topics found in advanced programming. In particular, topics from object-oriented programming and how this differs from procedural programming. We then move on to the study of dynamic data structures, such as linked lists, stacks, queues, trees, heaps, graphs, hash tables, sets and more. Completion of this course opens up the remainder of the Computer Science classes and is required for minors. Common themes that run throughout this course are: (1) implementation of the abstract data types, and (2) spatial and memory consideration and analysis.
 
-Prerequisites: COMP 127, COMP 131, COMP 211, a score of 4 or 5 on the AP Computer Science A examination, or permission of instructor
+FIXME something about self-placement
+
+Prerequisites: COMP 131 or COMP 181
 
 ## COMP 230: Pollinator Drones, Wish Factories, and Robotic Dogs: 'What-if' Scenarios as Drivers of Creative Production and Imagination
 
 As humankind stares down a number of unprecedented global challenges, the need for creative, radical thinking is imperative. In this interdisciplinary studio, students will develop a series of detailed and speculative projects inspired by boundary-pushing artistic and technological practices. The course will examine precedents from contemporary art, media, engineering, performance, design, and technology that offer responses to a wide range of "what-if" scenarios. The primary goal of the class will be to guide students as they develop a methodology for making creative and responsive work - one that relies on provocation and imagination as driving forces. Class projects will be designed to develop critical thinking and research skills, art-making and visual communication capabilities, and will call for speculative, even fantastical, responses to complex sites and situations. Technological and data-driven approaches, including data analysis, modeling, and scenario planning, will be integrated into the class assignments, encouraging cross-disciplinary collaborations between computer science and media arts students. Instructional assignments will explore a range of materials, scales, and research methods, and will encourage students to develop their abilities to hone and express innovative responses to complex societal and relational questions. The final series of class projects will address the uncertainty of climate change as a contextual framework, and final proposals may range from site-specific art installations to new applications for robotics; from creating futuristic soundscapes to designing experiences in VR. Site visits and guest lecturers will extend students' connections with selected Los Angeles sites and their contexts, the understanding of a broad set of perspectives and values, and real-world examples of collaborative, cross-disciplinary projects. Not open to First Year Students. Permission of instructor required.
 
+Sub-field: INTERFACES
+
 ## COMP 239: Computer Organization
 
 This course covers the basics of how a computer works, focusing especially on the hardware-software interface. Students will learn about the limitations of the physical computer, and that it may not be possible to ignore the lower-level hardware when designing efficient software. Students will learn to implement programs in Assembly language and C/C++. They will investigate the main components of the computer and it's processor and master the binary language of computers. They will learn important design concepts such as memory hierarchy and parallel computing, and have a brief encounter with principles of digital logic. This is a required course for the Computer Science major. Includes one 1.5-hour lab period per week.
 
-Prerequisites: COMP 131
+Prerequisites: COMP 131 or COMP 181 or COMP 229 
 
 ## COMP 242: Music and Artificial Intelligence
 
@@ -214,7 +207,9 @@ Sub-field: INTERFACES
 
 Video games are one of the newest forms of media, and offer tremendous promise for both entertainment, storytelling, and education. Starting from the text-based adventures of the 1970s to the billion-dollar industry today, students will learn how to use psychology and game mechanics to create compelling narratives, as well as gaining a glimpse into large-scale software development.
 
-Prerequisites: COMP 131
+Sub-field: INTERFACES
+
+Prerequisites: COMP 131 or COMP 181 or COMP 229 
 
 ## COMP 295: Topics in Computer Science
 
@@ -226,15 +221,11 @@ Students will work with LA-based non-profits such as STEAM:CODERS, a Pasadena-ba
 
 ## COMP 297: Independent Study
 
-Prerequisites: Independent study project. Permission of instructor and department chair required.
-
-## COMP 311: Data Structures and Algorithms
-
-Comparative data structures and analysis of algorithms. Abstract data types. "Big O" notation, run time and memory allocation considerations, introduction to computational complexity. Selected topics and applications from graph theory, linear algebra, numerical analysis, and data compression. <em>Weekly lab.</em>
-
-Prerequisites: COMP 211
+Directed individual study. Permission of instructor and department chair required.
 
 ## COMP 313: Computer Graphics
+
+FIXME edit course description to ensure basic multi-variate functions is covered
 
 The key to the animation and videogame industries is the ability to display simulated worlds in real time. Starting with representing 3D space, this course will teach students the data structures and algorithms, such as quadtrees, texture mapping, and ray tracing, to create photorealistic images.
 
@@ -256,7 +247,7 @@ Knowledge Representation and Reasoning is the area of Artificial Intelligence co
 
 Sub-field: ARTIFICIAL INTELLIGENCE
 
-Prerequisites: COMP 229 or permission of instructor
+Prerequisites: COMP 229 or COGS 242
 
 ## COMP 325: Topics in Artificial Intelligence
 
@@ -264,7 +255,7 @@ This course covers select topics in artificial intelligence, including: reinforc
 
 Sub-field: ARTIFICIAL INTELLIGENCE
 
-Prerequisites: COGS 101, four units of Computer Science, or permission of instructor
+Prerequisites: COMP 131 or COMP 181 or COMP 229 
 
 ## COMP 331: Natural Language Processing
 
@@ -272,11 +263,15 @@ The wealth of textual information online and elsewhere makes the ability for com
 
 Sub-field: ARTIFICIAL INTELLIGENCE
 
-Prerequisites: COMP 229 or by permission of instructor
+Prerequisites: COMP 229
 
 ## COMP 337: Programming Languages
 
+FIXME
+
 There are hundreds of programming languages in use, many with unique features. This course is a survey of different programming languages and their similarities and differences. As part of this study, students will be additionally be introduced to topics such as type systems, parsing, and the theory of formal languages.
+
+Sub-field: SOFTWARE
 
 Prerequisites: COMP 229
 
@@ -286,7 +281,7 @@ This course focuses on the process and technology behind making intuitive and us
 
 Sub-field: INTERFACES
 
-Prerequisites: COMP 131, COGS 101, or permission of instructor
+Prerequisites: COMP 131 or COMP 181 or COMP 229 or COGS 101
 
 ## COMP 347: Machine Learning
 
@@ -294,7 +289,7 @@ Many recent advances in artificial intelligence are not in symbolic systems, but
 
 Sub-field: ARTIFICIAL INTELLIGENCE
 
-Prerequisites: COMP 229 and either COMP 149 and MATH 146/ COMP 146; or MATH 150, MATH 210, and MATH 214; or permission of instructor
+Prerequisites: COMP 229 and (COMP 149 or (MATH 210 and MATH 214)) and (COMP 146 or MATH 146 or MATH 150)
 
 ## COMP 349: Robotics
 
@@ -310,7 +305,7 @@ The logical foundation of the notion of a computable function underlying the wor
 
 Sub-field: THEORY
 
-Prerequisites: Math 210, COMP 149, or permission of instructor
+Prerequisites: COMP 149 or (MATH 210 and MATH 214)
 
 ## COMP 353: Information Theory
 
@@ -318,7 +313,7 @@ An introduction to information theory that will focus on: (1) data: transmission
 
 Sub-field: THEORY
 
-Prerequisites: MATH 210 and MATH 214 or COMP 149; recommended MATH 146 or MATH 150
+Prerequisites: COMP 149 or (MATH 210 and MATH 214); COMP 146 or MATH 146 or MATH 150 recommended
 
 ## COMP 355: Full-Stack Web Development
 
@@ -326,7 +321,7 @@ This course will teach students both front-end and back-end techniques necessary
 
 Sub-field: SOFTWARE
 
-Prerequisites: COMP 229 or permission of instructor
+Prerequisites: COMP 229
 
 ## COMP 357: Networking
 
@@ -334,7 +329,7 @@ Much of the power of computers is that they are not individual machines, but uni
 
 Sub-field: SYSTEMS
 
-Prerequisites: COMP 229 and COMP 239, or permission of instructor
+Prerequisites: COMP 229 and COMP 239
 
 ## COMP 367: Practicum in Computer Science
 
@@ -342,7 +337,7 @@ The largest programming projects are completed by multiple computer scientists w
 
 Sub-field: SYSTEMS
 
-Prerequisites: COMP 127 or COMP 131
+Prerequisites: COMP 131 or COMP 181 or COMP 229
 
 ## COMP 371: Mobile Apps
 
@@ -358,7 +353,7 @@ Any large amount of data, such as that stored by Google or Facebook, requires sp
 
 Sub-field: SYSTEMS
 
-Prerequisites: COMP 229 and COMP 239, or permission of instructor
+Prerequisites: COMP 229 and COMP 239
 
 ## COMP 379: Operating Systems
 
@@ -366,7 +361,7 @@ An operating system ties together the hardware and software components of a comp
 
 Sub-field: SYSTEMS
 
-Prerequisites: COMP 229 and COMP 239, or permission of instructor
+Prerequisites: COMP 229 and COMP 239
 
 ## COMP 383: Computer Security
 
@@ -382,19 +377,19 @@ Security on the internet is fundamentally based on the mathematical properties o
 
 Sub-field: SECURITY
 
-Prerequisites: COMP 149
+Prerequisites: COMP 149 or (MATH 210 and MATH 214)
 
 ## COMP 390: Computer Science Junior Seminar
 
 This course focuses on responsible conduct of Computer Science. Students will explore the effects of technology on the modern world, including issues of electronic voting, personal security and privacy, intellectual property, and others. This course will culminate in a research paper on one of these topics, examining the technical background, as well as the social forces that contextualize the issue. Students should have a decent understanding of the challenges of writing software, and why certain questions are computationally difficult (that is, require significant time/memory).
 
-Prerequisites: COMP 229 and one 300-level COMP course
+Prerequisites: COMP 101, COMP 229, and one 300-level COMP course
 
 ## COMP 395: Topics in Computer Science
 
 Topics vary semester to semester.
 
-Prerequisites: COMP 127, COMP 131, COMP 211, or COMP 229
+Prerequisites: COMP 131 or COMP 181 or COMP 229
 
 ## COMP 397: Independent Study
 
@@ -404,7 +399,7 @@ Directed individual study of advanced topics. Permission of instructor and depar
 
 Students engage with open problems in an active area of faculty research. May be repeated once for credit.
 
-Prerequisites: COMP 127, COMP 131, COMP 211, or COMP 229
+Prerequisites: Permission of instructor
 
 ## COMP 467: Interdisciplinary Data Practicum
 
