@@ -4,11 +4,13 @@
 
 Computers have transformed our world technologically, economically, and socially. Although computer science has its roots in mathematics, the use of computers increasingly informs almost every academic discipline. At Occidental College, the study of Computer Science emphasizes an understanding not only of the process of computing but also of the promise and limitations of computers within an intellectual, societal, and ethical framework. A major or minor in Computer Science can help prepare students for a variety of opportunities for subsequent employment or graduate work. Moreover, the program can provide students with models of problem solving and theoretical constructs that can shed light on human intelligence and the workings of the mind.
 
-Students must have completed COMP 131 before they declare the major, and are strongly encouraged to have also taken COMP 149 and COMP 229. Students considering the Mathematics or CS+X concentration should begin meeting with an advisor early on. Students in the CS+X concentration should submit a proposal using this webform to the Department Chair for approval prior to the beginning of their Junior year.
+Students must have completed COMP 131 before they declare the major, and are strongly encouraged to have also taken COMP 149 and COMP 229. Students considering the Mathematics or CS+X concentration should begin meeting with an advisor early on. Students in the CS+X concentration should submit a proposal using this webform to the Department Chair for approval prior to the end of their Junior year.
 
 ## Major Requirements
 
 Computer science is a broad field, encompassing topics from digital logic and advanced mathematical theory to video games and data science. At the same time, these foundations and applications require fundamental knowledge of how a computer works, as well as the ability to translate processes into working programs. The Computer Science major coursework mirrors this structure. A student majoring in Computer Science must take a minimum of 13 courses (50 units).
+
+FIXME recommending taking 101, 131, and 229 as early as possible
 
 ### Required Courses
 
@@ -30,13 +32,15 @@ Computer science is a broad field, encompassing topics from digital logic and ad
 
 Students should meet with an advisor early on to explore potential pathways through the major. Students will select one of the following three concentrations:
 
+FIXME fix order of concentrations
+
 #### Computational Mathematics Concentration
 
 Six elective courses at 200-level or above, with at most two courses at the 200-level (not including Linear Algebra or Discrete Mathematics). Students must complete three elective courses from MATH and three elective courses from COMP that are centered on a theme in computational mathematics, plus a senior comprehensive project related to the theme. At most two of these courses can be double-counted for another major/minor.
 
 This pathway reflects the growing importance of work in computer science that is grounded in mathematical foundations, and work in mathematics that requires an understanding of computational methods and implementation. Students who are interested in the Computational Mathematics option will work with an advisor to propose an interdisciplinary concentration of six courses on a related theme. Students may choose to seek an additional advisor from the Mathematics Department, but this is not required. Proposals must include an intellectual rationale for the course selection and associated senior project. The proposal should be submitted to the department using this form no later than two semesters prior to the semester of graduation, and at least two weeks before Advising Week.
 
-Any changes to the pathway must be approved via a Petition for Special Consideration, signed by the academic advisor, the department chair, and the outside advisor for the CS+X theme, and submitted to the Registrar's Office no later than the week prior to registration in the semester before graduation.
+Any changes to the pathway must be approved via a Petition for Special Consideration, signed by the academic advisor, the department chair, and the optional math advisor, and submitted to the Registrar's Office no later than the week prior to registration in the semester before graduation.
 
 <table>
 <tr>  <td>MATH 210</td>  <td>Discrete Mathematics</td>  <td>4 units</td>  </tr>
@@ -45,7 +49,7 @@ Any changes to the pathway must be approved via a Petition for Special Considera
 
 #### Computer Science Concentration
 
-Six courses 200-level or above in at least two different sub-fields of computer science (artificial intelligence, interfaces, security, systems/software, and/or theory). At least three of those courses must be at the 300-level. COMP 317 is highly recommended for students interested in graduate school. Students can count at most two courses from the Additional Electives (below) towards the major in this pathway.
+Six courses 200-level or above in at least two different sub-fields of computer science (artificial intelligence, interfaces, security, systems/software, and/or theory). At least three of those courses must be at the 300-level or above. COMP 317 is highly recommended for students interested in graduate school. Students can count at most two courses from the Additional Electives (below) towards the major in this pathway.
 
 This pathway is designed to give students broad working knowledge of the many facets of the field, while maintaining freedom to pursue specific topics in depth.
 
@@ -68,7 +72,7 @@ Students may select courses from the list below to satisfy a major elective.
 <tr>  <td>ECON 305</td>           <td>Game Theory</td>                                <td>4 units</td>  </tr>
 <tr>  <td>GEO 255</td>            <td>Remote Exploration of Earth</td>                <td>4 units</td>  </tr>
 <tr>  <td>KINE 302</td>           <td>Biomechanics</td>                               <td>4 units</td>  </tr>
-<tr>  <td>KINE 310/KINE 310</td>  <td>Motor Learning and Control</td>                 <td>4 units</td>  </tr>
+<tr>  <td>KINE 310/PSYC 310</td>  <td>Motor Learning and Control</td>                 <td>4 units</td>  </tr>
 <tr>  <td>MAC 270</td>            <td>Worldbuilding Design</td>                       <td>4 units</td>  </tr>
 <tr>  <td>MATH 212</td>           <td>Multivariable Calculus</td>                     <td>4 units</td>  </tr>
 <tr>  <td>MATH 322</td>           <td>Number Theory</td>                              <td>4 units</td>  </tr>
@@ -80,15 +84,19 @@ Students may select courses from the list below to satisfy a major elective.
 <tr>  <td>MATH 380</td>           <td>Combinatorics</td>                              <td>4 units</td>  </tr>
 <tr>  <td>MATH 396</td>           <td>Topics in Applied Mathematics</td>              <td>2 units</td>  </tr>
 <tr>  <td>PHIL 150</td>           <td>Formal Logic</td>                               <td>4 units</td>  </tr>
+<tr>  <td>PHIL 242</td>           <td>Minds, Agents, and Persons</td>                 <td>4 units</td>  </tr>
 <tr>  <td>PHIL 341</td>           <td>Philosophy of Space and Time</td>               <td>4 units</td>  </tr>
 <tr>  <td>PHIL 350/MATH 350</td>  <td>Metalogic</td>                                  <td>4 units</td>  </tr>
 <tr>  <td>PSYC 301</td>           <td>Learning</td>                                   <td>4 units</td>  </tr>
 <tr>  <td>PSYC 302</td>           <td>Perception</td>                                 <td>4 units</td>  </tr>
 <tr>  <td>PSYC 444</td>           <td>Thinking and Reasoning</td>                     <td>4 units</td>  </tr>
+<tr>  <td>PHYS 261</td>           <td>Simulations in Physics</td>                     <td>4 units</td>  </tr>
 <tr>  <td>UEP 305</td>            <td>Urban Data Analysis</td>                        <td>4 units</td>  </tr>
 </table>
 
 ### Second-Stage Writing Requirement
+
+FIXME
 
 Students majoring in Computer Science will satisfy the college's Second-Stage Writing Requirement by receiving at least a C in COMP 390, typically offered in spring, and satisfactorily completing its writing component. The writing requirement must be completed by May of the student's junior year; students considering study abroad must coordinate with the department early to ensure that they can fulfill the writing requirement. We recommend that students do not study abroad in the spring of their junior year or the fall of their senior year.
 
@@ -147,9 +155,11 @@ This course is a computational introduction to data science. Students will use R
 
 Computer Science is about the organization of information and the design of processes that use it. This course teaches students to think computationally - how to break down processes into components that can then be fully described - and to acquire other habits necessary for a computer scientist. Students should come out of the course able to write simple, but complete, programs of their choosing, and should also be able to diagnose problems in unfamiliar programs.
 
+FIXME something about self-placement
+
 ## COMP 146: Statistics
 
-Comprehensive study of measures of central tendency, variation, probability, the normal distribution, sampling, estimation, confidence intervals, and hypothesis testing. Introduction to use of technology in statistics. Real-life problems are used to illustrate methods. Weekly lab. Not open to students who have completed or are currently enrolled in PSYC 201, BIO 368, MATH 150, or any Mathematics course above 200.
+Comprehensive study of measures of central tendency, variation, probability, the normal distribution, sampling, estimation, confidence intervals, and hypothesis testing. Introduction to use of technology in statistics. Real-life problems are used to illustrate methods. Includes one 1.5-hour lab period per week. Not open to students who have completed or are currently enrolled in PSYC 201, BIO 368, MATH 150, or any Mathematics course above 200.
 
 ## COMP 149: Mathematical Foundations of Computer Science
 
