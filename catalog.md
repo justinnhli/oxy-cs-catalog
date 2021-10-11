@@ -53,7 +53,7 @@ This pathway is designed to give students broad working knowledge of the many fa
 
 #### CS+X Concentration
 
-Six courses 200-level or above, with at least three of those courses at the 300-level. Students must complete two CS courses in different sub-fields, a four-course interdisciplinary concentration around a computer science or technology theme (for a total of 24 units), plus a senior comprehensive project related to the theme. At least three of the four courses in the interdisciplinary concentration must be outside of and not cross-listed with Computer Science, and at most two of these courses can be double-counted for another major/minor.
+Six courses 200-level or above, with at least three of those courses at the 300-level or above. Students must complete two CS courses in different sub-fields, a four-course interdisciplinary concentration around a computer science or technology theme (for a total of 24 units), plus a senior comprehensive project related to the theme. At least three of the four courses in the interdisciplinary concentration must be outside of and not cross-listed with Computer Science, and at most two of these courses can be double-counted for another major/minor.
 
 This pathway reflects the growing importance of computer science in many fields, and allows students to explore the intersection of technology with their other academic interests. Students who are interested in the CS+X option will work with an advisor to propose the interdisciplinary concentration of four courses on a related theme. Proposals must include an intellectual rationale for the course selection. A faculty member outside of Computer Science must approve the proposal and agree to act as an outside advisor for the senior comprehensive project. The proposal should be submitted to the department using this form no later than two semesters prior to the semester of graduation, and at least two weeks before Advising Week.
 
@@ -94,7 +94,7 @@ Students may select courses from the list below to satisfy a major elective.
 
 ### Second-Stage Writing Requirement
 
-Students majoring in Computer Science will fulfill the College's Second-Stage Writing Requirement by receiving at least a C in COMP 390 and satisfactorily completely its writing component. Note that this course is typically only offered in the Spring semester, and we strongly recommend students avoid studying abroad that semester to complete the requirement by the end of their junior year. Students who do not successfully complete the writing component of COMP 390 will be required to submit a portfolio of technical writing about their 300+ CS electives. The portfolio should be submitted to the department chair of Computer Science no later than the midterm of the following semester.
+Students majoring in Computer Science will fulfill the College's Second-Stage Writing Requirement by receiving at least a C in COMP 390 and satisfactorily completely its writing component. Note that this course is typically only offered in the Spring semester, and we strongly recommend students avoid studying abroad that semester to complete the requirement by the end of their junior year. Students who do not successfully complete the writing component of COMP 390 will be required to submit a portfolio of technical writing about their 300-level or above COMP electives. The portfolio should be submitted to the department chair of Computer Science no later than the midterm of the following semester.
 
 ### Comprehensive Requirement
 
@@ -377,7 +377,7 @@ Prerequisites: COMP 149 or (MATH 210 and MATH 214)
 
 This course focuses on responsible conduct of Computer Science. Students will explore the effects of technology on the modern world, including issues of electronic voting, personal security and privacy, intellectual property, and others. This course will culminate in a research paper on one of these topics, examining the technical background, as well as the social forces that contextualize the issue. Students should have a decent understanding of the challenges of writing software, and why certain questions are computationally difficult (that is, require significant time/memory).
 
-Prerequisites: COMP 101, COMP 229, and one 300-level COMP course
+Prerequisites: COMP 101, COMP 229, and one 300-level or above COMP course
 
 ## COMP 395: Topics in Computer Science
 
