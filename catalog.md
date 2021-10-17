@@ -147,7 +147,7 @@ This course is a computational introduction to data science. Students will use R
 
 Computer Science is about the organization of information and the design of processes that use it. This course teaches students to think computationally - how to break down processes into components that can then be fully described - and to acquire other habits necessary for a computer scientist. Students should come out of the course able to write simple, but complete, programs of their choosing, and should also be able to diagnose problems in unfamiliar programs.
 
-This course is designed for students with no experience with Computer Science. Students who earned a score of 4 or 5 on the AP CS A examination should start with either COMP 181 or COMP 229. Students who have taking the AP Computer Science Principles examination, or have taken the IB or A-Level examinations in Computer Science, or otherwise have some prior experience in programming, should take the self-placement test to determine the appropriate first course.
+This course is designed for students with no experience with Computer Science. Students who earned a score of 4 or 5 on the AP CS A examination should start with either COMP 181 or COMP 229. Students who have taken the AP Computer Science Principles examination, or have taken the IB or A-Level examinations in Computer Science, or otherwise have some prior experience in programming, should take the self-placement test to determine the appropriate first course.
 
 ## COMP 146: Statistics
 
