@@ -202,7 +202,7 @@ Prerequisites: COMP 131
 
 ## COMP 242: Music and Artificial Intelligence
 
-This course focuses on programming for music and sound with artificial intelligence tools and methods. Special attention will be given to systems that are able to co-create music and enhance creative workflows. Students will learn the basics of machine improvisation and introductory elements of machine learning to apply the best methods in system design, and to acquire the skills that meet the new needs and standards of the creative industries. Max/MSP/Jitter is a programming environment conceived to be accessible to students with no familiarity with computer programming; programs are realized by drawing patch cables with the mouse to connect objects that are visually represented on screen. This approach will provide students with a gentle learning curve to prototype development. Exploration through composition, improvisation and performance that integrate sensor technology, multimedia and data analysis will be fostered through working in constant dialogue with other disciplines.</p>
+This course focuses on programming for music and sound with artificial intelligence tools and methods. Special attention will be given to systems that are able to co-create music and enhance creative workflows. Students will learn the basics of machine improvisation and introductory elements of machine learning to apply the best methods in system design, and to acquire the skills that meet the new needs and standards of the creative industries. Max/MSP/Jitter is a programming environment conceived to be accessible to students with no familiarity with computer programming; programs are realized by drawing patch cables with the mouse to connect objects that are visually represented on screen. This approach will provide students with a gentle learning curve to prototype development. Exploration through composition, improvisation and performance that integrate sensor technology, multimedia and data analysis will be fostered through working in constant dialogue with other disciplines.
 
 Sub-field: INTERFACES
 
@@ -276,7 +276,7 @@ Prerequisites: COMP 229 or by permission of instructor
 
 ## COMP 337: Programming Languages
 
-There are hundreds of programming languages in use, many with unique features. This course is a survey of different programming languages and their similarities and differences. As part of this study, students will be additionally be introduced to topics such as type systems, parsing, and the theory of formal languages.<br/>
+There are hundreds of programming languages in use, many with unique features. This course is a survey of different programming languages and their similarities and differences. As part of this study, students will be additionally be introduced to topics such as type systems, parsing, and the theory of formal languages.
 
 Prerequisites: COMP 229
 
