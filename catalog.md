@@ -127,7 +127,7 @@ Students seeking a Computer Science Minor must complete six courses (24 credits)
 
 ## Transfer Credit Policies
 
-The Computer Science Department policy on transfer credit conforms to College policy. Students should reference the Transfer Credit section for details. Online courses are allowed for transfer credit. A score of 4 or 5 on the AP Computer Science examination is equivalent to COMP 131, and places a student into COMP 229 (Data Structures).
+The Computer Science Department policy on transfer credit conforms to College policy. Students should reference the Transfer Credit section for details. Online courses are allowed for transfer credit. A score of 4 or 5 on the AP Computer Science A examination is equivalent to COMP 131, and places a student into COMP 229 (Data Structures).
 
 For students who have taken the AP Computer Science Principles examination, who have taken IB or A-Level examinations in Computer Science, who have transfer credit, or are in similar situations, the department will evaluate each student's situation individually. To aid in the evaluation, students should complete the guided placement programming assignment found at <https://www.oxy.edu/academics/areas-study/computer-science/cs-self-placement>. A typical student should be able to complete the assignment in under two hours. In general, to place out of COMP 131, a student should be proficient in variables, branches (if, else), loops (for, while), functions (parameters, scope, return versus print), and object-oriented programming (classes versus instances, constructors, passing familiarity with inheritance). All other students should begin with COMP 131 as soon as possible.
 
