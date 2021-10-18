@@ -383,15 +383,23 @@ Prerequisites: COMP 101, COMP 229, and one 300-level or above COMP course
 
 Topics vary semester to semester.
 
-__Computational Science Fundamentals__
+__Computational Science Fundamentals__ (Spring 2022)
 
 This course covers tools and techniques to collect, prepare, analyze and visualize data in the process of research or investigative inquiry. Students will learn how to collect and organize data, and subsequently learn statistical techniques to prepare/clean it for analysis, such as imputation and dealing with outliers. In the process of data exploration, students will describe data, identify relationships between variables, and understand the structure of datasets. Visual representations of data will be used to discover patterns, and convey findings. The psychology underpinning understanding and reading visualizations will also be covered using a grammar of graphics approach.
 
-__Parallel Computing__
+Prerequisites: COMP 131 or COMP 181 or COMP 229
 
-This course covers high-performance computing, which refers to techniques, hardware, and software used to further speed up processing beyond a typical CPU desktop configuration. Students will learn to write code optimized for multi-core processors, employing parallelization strategies for hardware using OpenMP and MPI. Students will learn how to access and use Oxy's HPC cluster, as well as explore cloud platform solutions, tools, and programming languages used in both academic and industry environments.
+__High Performance Computing__ (Spring 2023)
+
+This course covers high-performance computing, which refers to techniques, hardware, and software used to further speed up processing beyond a typical CPU desktop configuration. Students will learn to write code optimized for multi-core processors, employing parallelization strategies for hardware using OpenMP and MPI.  Students will learn how to access and use Oxy's HPC cluster, as well as explore cloud platform solutions, tools, and programming languages used in both academic and industry environments.
 
 Prerequisites: COMP 131 or COMP 181 or COMP 229
+
+__Category Theory__ (Spring 2023)
+
+Category theory is often regarded as the “mathematics of mathematics” and provides a natural context to discuss types of objects, their internal structure, and their relationships to other objects of the same or different contexts. Categorical descriptions naturally imbue systems with intrinsically algebraic structures, leading to a flexible descriptive framework for systems across many disciplines. Although the theory has its origins in pure mathematics (originally as the outgrowth of algebraic topology), applied scientists, engineers, and computer scientists have looked more and more towards category theory for modern approaches to solving and framing problems in technology and organization. This course will cover the basics of category theory, it's applications to Boolean logic, to databases and to the Haskell programming language.
+
+Prerequisites: FIXME
 
 ## COMP 397: Independent Study
 
