@@ -299,7 +299,7 @@ The logical foundation of the notion of a computable function underlying the wor
 
 Sub-field: THEORY
 
-Prerequisites: COMP 149 or (MATH 210 and MATH 214)
+Prerequisites: COMP 149 or MATH 210
 
 ## COMP 353: Information Theory
 
