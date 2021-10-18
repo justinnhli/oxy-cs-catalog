@@ -399,7 +399,7 @@ __Category Theory__ (Spring 2023)
 
 Category theory is often regarded as the “mathematics of mathematics” and provides a natural context to discuss types of objects, their internal structure, and their relationships to other objects of the same or different contexts. Categorical descriptions naturally imbue systems with intrinsically algebraic structures, leading to a flexible descriptive framework for systems across many disciplines. Although the theory has its origins in pure mathematics (originally as the outgrowth of algebraic topology), applied scientists, engineers, and computer scientists have looked more and more towards category theory for modern approaches to solving and framing problems in technology and organization. This course will cover the basics of category theory, it's applications to Boolean logic, to databases and to the Haskell programming language.
 
-Prerequisites: FIXME
+Prerequisites: COMP 229 and (COMP 149 or MATH 210)
 
 ## COMP 397: Independent Study
 
