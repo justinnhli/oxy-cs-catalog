@@ -248,7 +248,7 @@ We study algorithms from the point of view of efficiency and complexity. Having 
 
 Sub-field: THEORY
 
-Prerequisites: COMP 229 and either COMP 149 or MATH 210 
+Prerequisites: COMP 229 and either COMP 149 or MATH 210
 
 ## COMP 319: Knowledge Representation and Reasoning
 
@@ -350,7 +350,7 @@ Smartphone apps, in their limited computational power and radically different fo
 
 Sub-field: INTERFACES
 
-Prerequisites: COMP 131 and COMP 229, or permission of instructor 
+Prerequisites: COMP 131 and COMP 229, or permission of instructor
 
 ## COMP 373: Databases
 
