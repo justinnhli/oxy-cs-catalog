@@ -393,7 +393,7 @@ __High Performance Computing__ (Spring 2023)
 
 This course covers high-performance computing, which refers to techniques, hardware, and software used to further speed up processing beyond a typical CPU desktop configuration. Students will learn to write code optimized for multi-core processors, employing parallelization strategies for hardware using OpenMP and MPI.  Students will learn how to access and use Oxy's HPC cluster, as well as explore cloud platform solutions, tools, and programming languages used in both academic and industry environments.
 
-Prerequisites: COMP 131 or COMP 181 or COMP 229
+Prerequisites: COMP 229
 
 __Category Theory__ (Spring 2023)
 
