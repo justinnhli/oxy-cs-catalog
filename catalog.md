@@ -4,11 +4,11 @@
 
 Computers have transformed our world technologically, economically, and socially. Although computer science has its roots in mathematics, the use of computers increasingly informs almost every academic discipline. At Occidental College, the study of Computer Science emphasizes an understanding not only of the process of computing but also of the promise and limitations of computers within an intellectual, societal, and ethical framework. A major or minor in Computer Science can help prepare students for a variety of opportunities for subsequent employment or graduate work.
 
-Students interested in declaring as a CS major must have completed COMP 131, and are strongly encouraged to have also taken COMP 149 and COMP 229. We recommend all CS majors take COMP 101 as early as possible. Students considering the Mathematics or CS+X concentrations should meet with a CS advisor early, and will need to submit a proposal using this webform to the department for approval prior to the end of their Junior year.
-
 ## Major Requirements
 
 Computer science is a broad field, encompassing topics from digital logic and advanced mathematical theory to video games and data science. At the same time, these foundations and applications require fundamental knowledge of how a computer works, as well as the ability to translate processes into working programs. The Computer Science major coursework mirrors this structure. A student majoring in Computer Science must take a minimum of 13 courses (50 units).
+
+Students interested in declaring as a CS major must have completed COMP 131, and are strongly encouraged to have also taken COMP 149 and COMP 229. We recommend all CS majors take COMP 101 as early as possible. Students considering the Mathematics or CS+X concentrations should meet with a CS advisor early, and will need to submit a proposal using this webform to the department for approval prior to the end of their Junior year.
 
 ### Required Courses
 
