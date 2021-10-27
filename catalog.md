@@ -339,7 +339,7 @@ Smartphone apps, in their limited computational power and radically different fo
 
 Sub-field: INTERFACES
 
-Prerequisites: COMP 131 and COMP 229, or permission of instructor
+Prerequisites: COMP 131 and COMP 229
 
 ## COMP 373: Databases
 
