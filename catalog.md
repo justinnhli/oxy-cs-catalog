@@ -6,9 +6,20 @@ Computers have transformed our world technologically, economically, and socially
 
 ## Major Requirements
 
-Computer science is a broad field, encompassing topics from digital logic and advanced mathematical theory to video games and data science. At the same time, these foundations and applications require fundamental knowledge of how a computer works, as well as the ability to translate processes into working programs. The Computer Science major coursework mirrors this structure. A student majoring in Computer Science must take a minimum of 13 courses (50 units).
+Computer science is a broad field, encompassing topics from digital logic and advanced mathematical theory to video games and data science. At the same time, these foundations and applications require fundamental knowledge of how a computer works, as well as the ability to translate processes into working programs. The Computer Science major coursework mirrors this structure. A student majoring in Computer Science must complete the COMP 131 Proficiency Requirement and take a minimum of 12 courses (46 units).
 
-Students interested in declaring as a CS major must have completed COMP 131, and are strongly encouraged to have also taken COMP 149 and COMP 229. We recommend all CS majors take COMP 101 as early as possible. Students considering the Mathematics or CS+X concentrations should meet with a CS advisor early, and will need to submit a proposal using this webform to the department for approval prior to the end of their Junior year.
+Students interested in declaring as a CS major must have completed the COMP 131 Proficiency Requirement, and are strongly encouraged to have also taken COMP 149 and COMP 229. We recommend all CS majors take COMP 101 as early as possible. Students considering the Mathematics or CS+X concentrations should meet with a CS advisor early, and will need to submit a proposal using this webform to the department for approval prior to the end of their Junior year.
+
+### COMP 131 Proficiency Requirement
+
+A student majoring in Computer Science must demonstrate proficiency in basic programming. Newcomers to computer science can complete this requirement by taking COMP 131 (Fundamentals of Computer Science); students with more experience may be able to test out of the requirement and be placed into later courses.
+
+More generally, this requirement can be completed by any of the following:
+
+* Taking COMP 131 (Fundamentals of Computer Science)
+* Earning a score of 4 or 5 on the AP Computer Science A examination
+* Earning a score of 3 on the [CS self-placement](https://www.oxy.edu/academics/areas-study/computer-science/cs-self-placement)
+* Taking COMP 181 (Advanced Programming) after earning a score of 2 on the CS self-placement.
 
 ### Required Courses
 
@@ -127,9 +138,9 @@ Students seeking a Computer Science Minor must complete six courses (24 credits)
 
 ## Transfer Credit Policies
 
-The Computer Science Department policy on transfer credit conforms to College policy. Students should reference the Transfer Credit section of the catalog for details: <http://oxy.smartcatalogiq.com/en/2022-2023/Catalog/Academic-Information-and-Policies/Transfer-Credit>. Online courses are allowed for transfer credit. A score of 4 or 5 on the AP Computer Science A examination is equivalent to COMP 131, and places a student into COMP 229 (Data Structures).
+The Computer Science Department policy on transfer credit conforms to College policy. Students should reference the Transfer Credit section of the catalog for details: <http://oxy.smartcatalogiq.com/en/2022-2023/Catalog/Academic-Information-and-Policies/Transfer-Credit>. Online courses are allowed for transfer credit. A score of 4 or 5 on the AP Computer Science A examination is equivalent to COMP 131, and also completes the COMP 131 Proficiency Requirement for the CS major. See the COMP 131 Proficiency Requirement section for more details.
 
-For students who have taken the AP Computer Science Principles examination, who have taken IB or A-Level examinations in Computer Science, who have transfer credit, or are in similar situations, the department will evaluate each student's situation individually. In general, to place out of COMP 131, a student should be proficient in variables, branches (if, else), loops (for, while), functions (parameters, scope, return versus print), and object-oriented programming (classes versus instances, constructors, passing familiarity with inheritance). Students who are already familiar with these concepts should complete the guided placement programming assignment found at <https://www.oxy.edu/academics/areas-study/computer-science/cs-self-placement>. The self-placement takes two hours, and requires that you meet with the chair of the CS department afterwards for their placement results. Students who place out of COMP 131 will be considered as having fulfilled that requirement of the major, and will not need to make up for its units.
+For students who have taken the AP Computer Science Principles examination, who have taken IB or A-Level examinations in Computer Science, who have transfer credit, or are in similar situations, the department will evaluate each student's situation individually. In general, to place out of COMP 131 or meet the COMP 131 Proficiency Requirement, a student should be proficient in variables, branches (if, else), loops (for, while), functions (parameters, scope, return versus print), and object-oriented programming (classes versus instances, constructors, passing familiarity with inheritance). Students who are already familiar with these concepts should complete the guided placement programming assignment found at <https://www.oxy.edu/academics/areas-study/computer-science/cs-self-placement>. The self-placement takes two hours, and requires that you meet with the chair of the CS department afterwards for their placement results. Students who place out of COMP 131 will be considered as having fulfilled that requirement of the major, and will not need to make up for its units.
 
 All other students should begin with COMP 131 as soon as possible.
 
